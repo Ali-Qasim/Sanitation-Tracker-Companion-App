@@ -8,7 +8,7 @@ Upon launch, the app downloads live data from the database and displays it on sc
 
 
 
-A colleage of mine made this incredible demo for the whole project!
+One of my teammates made this incredible demo for the overall project!
 
 ![image](https://github.com/Ali-Qasim/Ali-Qasim.github.io/blob/main/assets/img/Dispenser1.gif)
 
